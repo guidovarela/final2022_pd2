@@ -2,6 +2,7 @@
 html{
     font-family: "Montserrat";
     font-size: 16px;
+    scroll-behavior: smooth;
 }
 
 .header{
@@ -13,6 +14,9 @@ html{
 .slider{
     background: linear-gradient(30deg,rgb(59, 9, 140), rgb(131, 72, 180));
     height: 300px;
+}
+.contacto{
+    background-color: rgb(80, 79, 79);
 }
 
 /* Sabrina's way 
